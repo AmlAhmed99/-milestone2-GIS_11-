@@ -1,0 +1,9 @@
+C:\Users\GIS\Desktop\ProjectGIS2\ProjectGIS2\bin\Debug\ProjectGIS2.exe
+C:\Users\GIS\Desktop\ProjectGIS2\ProjectGIS2\bin\Debug\ProjectGIS2.pdb
+C:\Users\GIS\Desktop\ProjectGIS2\ProjectGIS2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GIS\Desktop\ProjectGIS2\ProjectGIS2\obj\x86\Debug\ProjectGIS2.Form1.resources
+C:\Users\GIS\Desktop\ProjectGIS2\ProjectGIS2\obj\x86\Debug\ProjectGIS2.Properties.Resources.resources
+C:\Users\GIS\Desktop\ProjectGIS2\ProjectGIS2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GIS\Desktop\ProjectGIS2\ProjectGIS2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GIS\Desktop\ProjectGIS2\ProjectGIS2\obj\x86\Debug\ProjectGIS2.exe
+C:\Users\GIS\Desktop\ProjectGIS2\ProjectGIS2\obj\x86\Debug\ProjectGIS2.pdb
